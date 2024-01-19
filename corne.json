@@ -1,7 +1,7 @@
 {
   "version": 1,
   "notes": "",
-  "documentation": "\" I'm making a change.  To setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\"\n",
+  "documentation": "corne keyboard",
   "keyboard": "crkbd/rev1",
   "keymap": "corne",
   "layout": "LAYOUT_split_3x6_3",
